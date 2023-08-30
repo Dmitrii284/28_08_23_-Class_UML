@@ -7,6 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_08_23_ Class_UML", "28_0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{6E2FB5C3-2E4F-4D0E-BD11-777E88EBE590}"
 	ProjectSection(SolutionItems) = preProject
+		30_08_23_Диаграмма Классов UML Class.drawio = 30_08_23_Диаграмма Классов UML Class.drawio
 		UML Активити + Диаграмма Состояний.drawio = UML Активити + Диаграмма Состояний.drawio
 	EndProjectSection
 EndProject
